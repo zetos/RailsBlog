@@ -1,0 +1,5 @@
+== README
+
+Created following the tutorial on: https://www.youtube.com/watch?v=BI_VnnOLSKY
+
+Original repo: https://github.com/mackenziechild/blog
